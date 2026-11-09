@@ -6,34 +6,42 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated November 9, 2026.
+Last updated November 9, 2026
 
-Commuter is an app that shows public transit arrivals. This policy describes what the app does with information.
+Commuter is an independent transit app that displays public transportation arrival information. This policy explains what information the app handles and how it is used.
 
-## Information stored on your device
+## Information Stored on Your Device
 
-Favorites, each one a stop and a direction, are saved in the app on your device. They are not uploaded to a server. There is no account.
+Commuter stores your favorites locally on your device. Each favorite consists of a transit stop and its selected direction.
 
-To delete them, remove a favorite on the Home tab, or delete Commuter. Deleting the app removes the remaining favorites. There is no server copy to erase.
+Favorites are not uploaded to a server, and Commuter does not require an account.
 
-## Information the app does not collect
+You can remove individual favorites from the Home tab. Deleting Commuter removes any remaining favorites stored by the app. There is no server-side copy to delete.
 
-Commuter does not ask for your name, email address, location, contacts, or photos. It does not ask for permission to track you across apps and websites. It does not include advertising or analytics.
+## Information We Do Not Collect
 
-## Requests to 511 SF Bay
+Commuter does not request or collect your name, email address, location, contacts, or photos.
 
-To show live arrivals, and occasionally to refresh its Metro stop list, the app requests information from 511 SF Bay at api.511.org. A request includes the stop you chose. 511 can see the IP address of that connection as part of ordinary internet traffic. Those requests are used only to show arrivals in the app and the widget. The app does not receive 511’s logs and does not use them to identify you.
+The app does not request permission to track your activity across other apps or websites. It does not include advertising or analytics.
 
-511’s own terms apply to that service: [511 SF Bay open data](https://511.org/open-data/transit).
+## Connections to 511 SF Bay
 
-## Map shoreline
+Commuter connects to 511 SF Bay to retrieve live transit arrivals and, occasionally, refresh its Muni Metro stop list.
 
-The shoreline on the map is simplified from OpenStreetMap coastline. © OpenStreetMap contributors. That map data is part of the app. It is not a record of where you are.
+These requests are sent to api.511.org and include the stop information needed to retrieve the data you selected.
 
-## Children
+As with any internet connection, 511 SF Bay may receive your IP address as part of normal network traffic. These requests are used to provide transit information in the app and its Home Screen widget. Commuter does not receive 511's connection logs or use them to identify you.
 
-Commuter is not directed at children under 13, and it does not knowingly collect personal information from children.
+Your use of this service is also subject to [511 SF Bay's open data terms](https://511.org/open-data/transit).
 
-## Changes
+## Map Data
 
-If this policy changes, the updated version will be posted on this page.
+The simplified shoreline shown on Commuter's map is derived from OpenStreetMap coastline data.
+
+© OpenStreetMap contributors.
+
+This map data is included with the app. It does not represent or record your location.
+
+## Changes to This Policy
+
+If this policy changes, the revised version will be published on this page, along with an updated revision date.

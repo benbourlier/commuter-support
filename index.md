@@ -5,46 +5,64 @@ title: Support
 
 # Support
 
-Commuter shows real-time arrivals for Muni Metro, Muni bus, and BART.
+Commuter makes it easy to see upcoming arrivals for Muni Metro, Muni bus, and BART.
 
-## FAQ
+## Frequently Asked Questions
 
-### What is Commuter?
+### About Commuter
 
-Commuter is an iPhone and iPad app for the next arrivals at a stop you choose. It covers Muni Metro, Muni bus, and BART.
+#### What is Commuter?
 
-### Is this an official transit app?
+Commuter is an iPhone and iPad app for checking upcoming transit arrivals at stops you choose. It supports Muni Metro, Muni bus, and BART.
 
-No. Arrival times come from [511 SF Bay](https://511.org/open-data/transit). Commuter is not affiliated with or endorsed by SFMTA, Muni, or BART.
+#### Is Commuter an official transit app?
 
-### How do I save a favorite?
+No. Commuter is an independent app. Arrival data is provided by [511 SF Bay](https://511.org/open-data/transit). Commuter is not affiliated with, endorsed by, or associated with SFMTA, Muni, or BART.
 
-Open the Stops tab, choose a line, a stop, and a direction, then tap the star. Home shows up to four favorites. The same stop can be saved twice, once for each direction.
+### Favorites
 
-### How do I remove a favorite?
+#### How do I save a favorite?
 
-On Home, swipe the favorite to the left and tap Delete.
+Go to the Stops tab and select a line, stop, and direction. Tap the star to save it. Your favorites appear on Home, which displays up to four at a time.
 
-### How do I add the Home Screen widget?
+You can save the same stop in both directions as separate favorites.
 
-Open Commuter once. Touch and hold the Home Screen, tap Add Widget, and choose Commuter. Edit the widget to pick a mode, a line, and a stop.
+#### How do I remove a favorite?
 
-### Why did live updates pause?
+On Home, swipe left on the favorite and tap Delete.
 
-The arrival service limits how often times can be refreshed. When that limit is reached, Commuter keeps showing the last times. Updates start again when the limit resets.
+### Home Screen Widget
 
-### Does Commuter use my location?
+#### How do I add the Commuter widget?
 
-No. You pick each stop yourself. The app does not ask for your location, contacts, photos, or permission to track you.
+Touch and hold an empty area of your iPhone or iPad Home Screen. Tap Add Widget, find Commuter, and choose a widget size.
 
-### Why doesn’t the map match the streets?
+After adding it, edit the widget to select a mode, line, and stop. Open Commuter at least once before adding the widget.
 
-The map is a diagram of the routes, with a simplified Bay shoreline behind the lines. It is not a street map.
+### Arrivals and Maps
 
-### How do I delete what Commuter saved?
+#### Why have live updates paused?
 
-Favorites stay on your device. Remove them on Home, or delete the app. There is no account and no copy of your favorites on a server.
+The arrival service limits how frequently arrival times can be requested. When that limit is reached, Commuter continues to display the most recently received times.
 
-### Where is the privacy policy?
+Live updates resume when the service limit resets.
 
-The privacy policy is on the [privacy policy page](privacy/).
+#### Why doesn't the map match the streets?
+
+Commuter's map is a simplified route diagram, not a street map. It uses a stylized Bay shoreline as a visual reference, with transit routes drawn over it.
+
+### Privacy and Data
+
+#### Does Commuter use my location?
+
+No. You select each stop yourself. Commuter does not request access to your location, contacts, or photos, and does not request permission to track you.
+
+#### How do I delete my saved data?
+
+Your favorites are stored locally on your device. You can remove individual favorites from Home or delete the app to remove all remaining favorites.
+
+Commuter does not have user accounts or store copies of your favorites on a server.
+
+#### Where can I read the privacy policy?
+
+See the [Commuter Privacy Policy](privacy/) for details about the information the app stores, the services it connects to, and how your data is handled.
